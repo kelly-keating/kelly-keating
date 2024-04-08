@@ -7,7 +7,7 @@ I’m currently working on (as ever) about three projects at once and trying to 
 - ⚛️ My current stack includes TypeScript, Vite, React, SCSS, Express, and SQLite/PostgreSQL
 - 🐝 I'm deploying on Firebase, Vercel, and Fly.io
 - 🧑‍💻 I'm exploring writing more about my projects and the things I'm learning, finding other ways to share my knowledge and grow my skills
-- 🐍 The tech I'm looking into is Next.js, Pygame, and Unity
+- 🐍 The tech I'm looking into at the moment is Ruby on Rails and Contentful
 - 🪟 Some new hobbies include learning how to run (and how you make progress without coding's short feedback loop), making bigger games, and making leadlight glass
 - 📚 I'm reading the Wheel of Time series at a rate of about a book every month or so
 
@@ -27,6 +27,6 @@ I’m currently working on (as ever) about three projects at once and trying to 
 
 
 
-<img src="https://streak-stats.demolab.com/?user=kelly-keating">
+<!-- <img src="https://streak-stats.demolab.com/?user=kelly-keating"> -->
 <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelly-keating&layout=compact&langs_count=8&card_width=320" /> -->
 
